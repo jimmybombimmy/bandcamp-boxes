@@ -37,4 +37,4 @@ It generates a `.tsbuildinfo` file for each project, which gets rid of any dupli
 
 If at any point, you feel as though compilation is taking too long and would like to diagnose certain aspects of it. It may be useful to revisit the section with the above name in the article.
 
-For now, I have just enabled `"diagnostics": true,`, which will show the 
+For now, I have just enabled `"extendedDiagnostics": true,`, which will output information for compile debugging.
