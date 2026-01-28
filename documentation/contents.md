@@ -11,3 +11,4 @@ See below for a good general order of where to read the documentation.
 1. [Overview](./overview.md)
 2. [Project Creation](./project-creation/#project-creation.md)
   - [BB Box Editor](./project-creation/bb-box-editor.md)
+3. [Creating a Draggable Box](./creating-a-draggable-box/creating-a-draggable-box.md)
